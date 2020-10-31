@@ -16,7 +16,7 @@ sidebar:
   phone: 010 3607 3775
   website: # blog.webjeda.com #do not add http://
   linkedin: # alandoe
-  github: cheol.kim
+  github: fito-cheol
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
@@ -26,7 +26,8 @@ sidebar:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
   languages:
-    - idiom: English
+    - idiom: 한국어
+    - idiom: 영어
       level: 불편하지만 읽고 쓰기 가능
 
   interests:
@@ -53,14 +54,14 @@ experiences:
       사내에서 필요한 프로그램이 있으면 프로토타입을 만들고
       웹 유지보수, 그래프 만들기 등 필요한거 다 해주는 역할
         - Python - GPS data 처리 후 spreadSheet에 시각화 
-        - Vue.js - 사내 근태, 구매용 ERP 관리
+        - Vue.js - 사내 근태, 구매용 ERP 관리 슬랙 연동
 
 projects:
   title: 개인 프로젝트
   assignments:
     - title: 풋살용 홈페이지
       link:
-      tagline: "모임용 사람, 일정, 경기 결과, 통계 요약 하는 홈페이지"
+      tagline: "풋살 모임용 사람, 일정, 경기 결과 입력 및 관리"
 
 skills:
   title: Skills
