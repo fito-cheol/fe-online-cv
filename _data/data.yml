@@ -40,11 +40,14 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
+    2018.02 알바로 일하다 2~3개월 이후 반복적인 업무 탈피를 위해서 Python을 배우기 시작
+    8개월 후 분석 서버 만들어 지기 전까지 자동화에 사용 
+    2019.01에 vue.js를 공부하여 사내 Front Refactoring을 시작으로 유지보수 담당
 
 education:
   - degree: 학사 - 산업경영공학
     university: 포항공대
-    time: 2010 - 2016
+    time: 2010.03 - 2016.02
 
 experiences:
   - role: SW Developer
@@ -52,12 +55,15 @@ experiences:
     company: Fitogether
     details: |
       사내에서 필요한 프로그램이 있으면 프로토타입을 만들고
-      웹 유지보수, 그래프 만들기 등 필요한거 다 해주는 역할
+      웹 유지보수, 그래프 만들기 등 필요한 것 다 해주는 역할
+      주로 python과 vue.js 사용 
         - Python - GPS data 처리 후 spreadSheet에 시각화 
         - Vue.js - 사내 근태, 구매용 ERP 관리 슬랙 연동
 
 projects:
-  title: 개인 프로젝트
+  title: Projects
+  into: ^
+    회사에서 배운 Vue.js를 바탕으로 Node.js와 MariaDB를 연동하여 제작
   assignments:
     - title: 풋살용 홈페이지
       link:
