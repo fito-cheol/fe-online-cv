@@ -25,7 +25,8 @@
 
     {% if experience.details %}
     <div class="details">
-      {{ experience.details | markdownify }}
+      <a href="{{ experience.link }}">{{ experience.details | markdownify }}</a>
+      
     </div><!--//details-->
     {% endif %}
 
